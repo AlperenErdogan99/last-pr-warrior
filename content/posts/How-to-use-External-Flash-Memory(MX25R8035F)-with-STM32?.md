@@ -1,5 +1,5 @@
 ---
-title: "How to Use External Flash Memory(MX25R8035F) with Stm32?"
+title: "How to Use External Flash Memory(MX25R8035F) with Stm32"
 date: 2022-09-19T23:58:48+03:00
 ---
 
