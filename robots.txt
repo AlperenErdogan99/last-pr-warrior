@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://alperenErdogan99.github.io/sitemap.xml
+Sitemap: http://alperenErdogan99.github.io/sitemap.xml
