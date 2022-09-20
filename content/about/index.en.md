@@ -17,9 +17,3 @@ In addition, in my personal life, I work to learn about Docker, Data structures 
 
 In today, I am starting to share what I've learned on my blog. I hope it will be useful to someone.
 
-Github: https://github.com/AlperenErdogan99
-
-LinkedIn: https://www.linkedin.com/in/alperen-erdogan99/
-
-Medium: https://medium.com/@falperenerdogan998
-
